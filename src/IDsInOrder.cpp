@@ -29,7 +29,7 @@ int main(){
         cout <<"Name: ";
         cout <<"Lastname: ";
         cout <<"Last number of the CUI: ";
-        cout << "Enter an ID: ";
+        cout << "Enter the ID numbers: ";
         cin >> ID[i];
     }
 }
