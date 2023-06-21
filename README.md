@@ -1,9 +1,9 @@
 # idsInOrder
 A program that allows users to input a set of ID numbers and arranges them in ascending order. The program prompts the user to enter the number of IDs they want to order and then requests additional information for each ID, such as name, lastname, and the last number of the CUI. The entered ID numbers are stored in an array. The program then sorts the array in ascending order using the C++ standard library's sort function. Finally, it displays the ordered list of IDs to the user. Overall, the code provides a simple and efficient way to organize ID numbers in a specific order.
-
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 <p align="center">
   <br>
-  ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+  
   <br>
 </p>
 <p align="center" >
