@@ -3,7 +3,7 @@ A program that allows users to input a set of ID numbers and arranges them in as
 
 <p align="center">
   <br>
-  <iframe src="https://gifer.com/embed/Mwpc" width=480 height=294.128 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">a través de GIFER</a></p>
+  ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
   <br>
 </p>
 <p align="center" >
